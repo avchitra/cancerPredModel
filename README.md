@@ -52,10 +52,10 @@ Cross-Validation: 5-fold cross-validation is implemented for more robust perform
 Interpretability: SHAP values are used to interpret the model's predictions and feature importance.
 
 ## Results and Interpretation
-Accuracy: 80%
-Weighted Precision: 80%
-Weighted Recall: 64%
-Weighted F1: 71%
+- Accuracy: 80%
+- Weighted Precision: 80%
+- Weighted Recall: 64%
+- Weighted F1: 71%
 
 
 The model's performance metrics (accuracy, precision, recall, F1-score) are reported.
